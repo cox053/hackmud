@@ -1,0 +1,26 @@
+{
+  "name": "hackmud",
+  "version": "0.0.0",
+  "description": "hackmud scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint scripts/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cox053/hackmud.git"
+  },
+  "keywords": [
+    "hackmud"
+  ],
+  "author": "cox053",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cox053/hackmud/issues"
+  },
+  "homepage": "https://github.com/cox053/hackmud#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-plugin-hackmud": "^0.1.2"
+  }
+}
