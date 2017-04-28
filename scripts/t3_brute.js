@@ -1,5 +1,10 @@
 function t3_brute (Z, Y, s, u, a, p, l, P, o, t, m, r) // s:#s.corp.priv, u:'username', m:false, p:0
 {
+
+  /** Uses mostly code found in a pinned message on Hackmud Discord.  I'm not able to find the pin to give credit
+   *  to the original author but please let me know if you are/know the original author and I will add it to this script
+   */
+
   // Z and Y are context and args respectively
   // s is scriptor from Y.s
   // u is username from Y.u
